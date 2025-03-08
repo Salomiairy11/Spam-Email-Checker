@@ -1,0 +1,5 @@
+my_model.keras 
+tokenizer.pkl 
+training_history.pkl 
+__pycache__/ 
+venv/ 
